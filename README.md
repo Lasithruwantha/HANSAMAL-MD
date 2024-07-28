@@ -1,7 +1,7 @@
 <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img 👋 NSAMAL." alt="Typing SVG" /></a>
+<a href="https://git.io/typing- heroku"><img  NSAMAL." alt="Typing SVG" /></a>
 
  
   
